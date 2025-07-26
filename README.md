@@ -10,6 +10,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kowshikmeda/Daily_DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kowshikmeda/Daily_DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
@@ -33,4 +35,12 @@
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
