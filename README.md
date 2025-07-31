@@ -95,6 +95,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -106,6 +107,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0234-palindrome-linked-list) |
