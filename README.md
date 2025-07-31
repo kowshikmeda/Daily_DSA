@@ -95,6 +95,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0141-linked-list-cycle) |
@@ -117,6 +118,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
