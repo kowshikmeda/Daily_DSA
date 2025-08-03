@@ -28,6 +28,7 @@
 | [1646-kth-missing-positive-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kowshikmeda/Daily_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## String
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kowshikmeda/Daily_DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Linked List
 |  |
 | ------- |
@@ -198,4 +201,5 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kowshikmeda/Daily_DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
