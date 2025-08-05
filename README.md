@@ -32,6 +32,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [1646-kth-missing-positive-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -205,4 +207,16 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kowshikmeda/Daily_DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
