@@ -172,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kowshikmeda/Daily_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0234-palindrome-linked-list) |
 ## Brainteaser
 |  |
@@ -223,4 +224,12 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kowshikmeda/Daily_DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kowshikmeda/Daily_DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
