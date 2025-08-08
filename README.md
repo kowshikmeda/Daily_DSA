@@ -121,6 +121,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
+| [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kowshikmeda/Daily_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
+| [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
@@ -242,4 +244,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kowshikmeda/Daily_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kowshikmeda/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
