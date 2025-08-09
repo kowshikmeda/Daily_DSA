@@ -110,6 +110,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
@@ -173,6 +174,7 @@
 | [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kowshikmeda/Daily_DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
