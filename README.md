@@ -46,6 +46,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -87,6 +88,7 @@
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
@@ -116,6 +118,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
@@ -203,11 +206,13 @@
 | [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0148-sort-list) |
+| [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 ## Sliding Window
 |  |
 | ------- |
