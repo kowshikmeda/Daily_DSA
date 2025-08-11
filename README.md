@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/kowshikmeda/Daily_DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/kowshikmeda/Daily_DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0940-fruit-into-baskets) |
@@ -47,6 +48,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -190,6 +192,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kowshikmeda/Daily_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kowshikmeda/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -259,4 +262,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
