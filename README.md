@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kowshikmeda/Daily_DSA/tree/master/0162-find-peak-element) |
+| [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kowshikmeda/Daily_DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -283,6 +286,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kowshikmeda/Daily_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kowshikmeda/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -303,4 +307,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/kowshikmeda/Daily_DSA/tree/master/0937-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
