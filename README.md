@@ -32,6 +32,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kowshikmeda/Daily_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
@@ -115,6 +116,7 @@
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2529-range-product-queries-of-powers) |
 ## Enumeration
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kowshikmeda/Daily_DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2529-range-product-queries-of-powers) |
 ## Linked List
 |  |
 | ------- |
