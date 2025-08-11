@@ -34,6 +34,7 @@
 | [1646-kth-missing-positive-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2227-sum-of-subarray-ranges](https://github.com/kowshikmeda/Daily_DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -207,6 +208,7 @@
 | [0503-next-greater-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kowshikmeda/Daily_DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/kowshikmeda/Daily_DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Brainteaser
 |  |
 | ------- |
@@ -285,4 +287,5 @@
 | [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/kowshikmeda/Daily_DSA/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
