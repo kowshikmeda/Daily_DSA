@@ -206,6 +206,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kowshikmeda/Daily_DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/kowshikmeda/Daily_DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0234-palindrome-linked-list) |
@@ -246,6 +247,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/kowshikmeda/Daily_DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
