@@ -212,6 +212,7 @@
 | [0206-reverse-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [0050-powx-n](https://github.com/kowshikmeda/Daily_DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
