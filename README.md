@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kowshikmeda/Daily_DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
@@ -114,6 +115,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
@@ -267,6 +270,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 ## Sliding Window
 |  |
@@ -344,4 +348,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
