@@ -259,6 +259,7 @@
 | [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/kowshikmeda/Daily_DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kowshikmeda/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/kowshikmeda/Daily_DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/kowshikmeda/Daily_DSA/tree/master/0460-lfu-cache) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kowshikmeda/Daily_DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -353,6 +355,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kowshikmeda/Daily_DSA/tree/master/0937-online-stock-span) |
 ## Monotonic Queue
 |  |
@@ -370,4 +373,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
