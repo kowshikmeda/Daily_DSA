@@ -159,6 +159,7 @@
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kowshikmeda/Daily_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -268,6 +269,7 @@
 | [0326-power-of-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kowshikmeda/Daily_DSA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1448-maximum-69-number) |
@@ -285,6 +287,7 @@
 | [0076-minimum-window-substring](https://github.com/kowshikmeda/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -326,6 +329,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
 ## Monotonic Stack
 |  |
 | ------- |
