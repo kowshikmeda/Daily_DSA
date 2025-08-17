@@ -28,6 +28,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/kowshikmeda/Daily_DSA/tree/master/0735-asteroid-collision) |
+| [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/kowshikmeda/Daily_DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -64,6 +65,7 @@
 | [0460-lfu-cache](https://github.com/kowshikmeda/Daily_DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -169,6 +171,7 @@
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [1448-maximum-69-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
 |  |
@@ -279,6 +282,7 @@
 | [0148-sort-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 ## Sliding Window
 |  |
