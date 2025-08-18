@@ -237,6 +237,7 @@
 | [0234-palindrome-linked-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kowshikmeda/Daily_DSA/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1448-maximum-69-number) |
+| [2050-count-good-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2050-count-good-numbers) |
 ## Sorting
 |  |
 | ------- |
