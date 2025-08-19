@@ -107,6 +107,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/kowshikmeda/Daily_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/kowshikmeda/Daily_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kowshikmeda/Daily_DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kowshikmeda/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -141,6 +142,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kowshikmeda/Daily_DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -165,6 +167,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kowshikmeda/Daily_DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
