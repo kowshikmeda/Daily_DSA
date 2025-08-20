@@ -116,6 +116,7 @@
 | [0020-valid-parentheses](https://github.com/kowshikmeda/Daily_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kowshikmeda/Daily_DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kowshikmeda/Daily_DSA/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -156,6 +157,7 @@
 | [0040-combination-sum-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -185,6 +187,7 @@
 | [0042-trapping-rain-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
