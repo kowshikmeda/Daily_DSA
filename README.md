@@ -122,6 +122,7 @@
 | [0079-word-search](https://github.com/kowshikmeda/Daily_DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/kowshikmeda/Daily_DSA/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -166,6 +167,7 @@
 | [0090-subsets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/kowshikmeda/Daily_DSA/tree/master/0282-expression-add-operators) |
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -314,6 +316,7 @@
 | [0050-powx-n](https://github.com/kowshikmeda/Daily_DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/kowshikmeda/Daily_DSA/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kowshikmeda/Daily_DSA/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
