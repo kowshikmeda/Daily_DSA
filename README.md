@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/kowshikmeda/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0042-trapping-rain-water) |
@@ -69,6 +70,7 @@
 | [0001-two-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/kowshikmeda/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/kowshikmeda/Daily_DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/kowshikmeda/Daily_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
@@ -150,6 +152,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kowshikmeda/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kowshikmeda/Daily_DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
@@ -163,6 +166,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kowshikmeda/Daily_DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/kowshikmeda/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/kowshikmeda/Daily_DSA/tree/master/0051-n-queens) |
