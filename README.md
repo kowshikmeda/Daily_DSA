@@ -40,6 +40,7 @@
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/kowshikmeda/Daily_DSA/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/kowshikmeda/Daily_DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/kowshikmeda/Daily_DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -225,6 +226,7 @@
 | [0455-assign-cookies](https://github.com/kowshikmeda/Daily_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/kowshikmeda/Daily_DSA/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
 |  |
