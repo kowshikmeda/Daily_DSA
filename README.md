@@ -15,6 +15,7 @@
 | [0045-jump-game-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kowshikmeda/Daily_DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kowshikmeda/Daily_DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0078-subsets) |
@@ -358,6 +359,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0295-find-median-from-data-stream) |
