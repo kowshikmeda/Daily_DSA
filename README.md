@@ -36,6 +36,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kowshikmeda/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kowshikmeda/Daily_DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0503-next-greater-element-ii) |
@@ -218,6 +219,7 @@
 | [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
@@ -233,6 +235,7 @@
 | [0055-jump-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kowshikmeda/Daily_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/0678-valid-parenthesis-string) |
@@ -364,6 +367,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kowshikmeda/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kowshikmeda/Daily_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
