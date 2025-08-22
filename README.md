@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kowshikmeda/Daily_DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/kowshikmeda/Daily_DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
@@ -225,6 +227,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
