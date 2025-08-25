@@ -39,6 +39,7 @@
 | [0435-non-overlapping-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kowshikmeda/Daily_DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/kowshikmeda/Daily_DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
@@ -168,6 +169,7 @@
 | [0079-word-search](https://github.com/kowshikmeda/Daily_DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/kowshikmeda/Daily_DSA/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/2047-find-a-peak-element-ii) |
@@ -402,6 +404,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/kowshikmeda/Daily_DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/kowshikmeda/Daily_DSA/tree/master/0735-asteroid-collision) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
