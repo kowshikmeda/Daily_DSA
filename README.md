@@ -24,6 +24,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kowshikmeda/Daily_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
@@ -83,6 +84,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kowshikmeda/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/kowshikmeda/Daily_DSA/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/kowshikmeda/Daily_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0141-linked-list-cycle) |
@@ -160,6 +162,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -489,6 +492,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -514,6 +518,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0144-binary-tree-preorder-traversal) |
