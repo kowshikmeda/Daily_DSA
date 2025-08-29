@@ -14,26 +14,21 @@
  * }
  */
 class Solution {
+
     public void flatten(TreeNode root) {
-        TreeNode curr = root;
-        while (curr != null) {
-            if (curr.left != null) {
-                TreeNode rightmost = curr.left;
-                while (rightmost.right != null) {
-                    rightmost = rightmost.right;
-                }
-                
-                // Attach the original right subtree to the rightmost node of the left subtree
-                rightmost.right = curr.right;
-                
-                // Move the entire left subtree to the right
-                curr.right = curr.left;
-                
-                // Disconnect the original left pointer
-                curr.left = null;
+     TreeNode curr=root;
+     while(curr!=null){
+        if(curr.left!=null){
+            TreeNode prev=curr.left;
+            while(prev.right!=null){
+                prev=prev.right;
             }
-            // Move to the next node in the new flattened list
-            curr = curr.right;
+            prev.right=curr.right;
+            curr.right=curr.left;
+            curr.left=null;
         }
+        curr=curr.right;
+     }
     }
+   
 }
