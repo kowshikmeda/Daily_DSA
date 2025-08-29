@@ -145,6 +145,7 @@
 | [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/kowshikmeda/Daily_DSA/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/0678-valid-parenthesis-string) |
@@ -435,6 +436,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kowshikmeda/Daily_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kowshikmeda/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/kowshikmeda/Daily_DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/kowshikmeda/Daily_DSA/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -504,6 +506,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/kowshikmeda/Daily_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -531,6 +534,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/kowshikmeda/Daily_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -554,6 +558,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kowshikmeda/Daily_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -575,6 +580,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kowshikmeda/Daily_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
