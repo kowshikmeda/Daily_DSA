@@ -163,6 +163,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -429,6 +430,7 @@
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2887-sort-vowels-in-a-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sliding Window
