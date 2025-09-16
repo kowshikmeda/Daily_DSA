@@ -76,6 +76,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/kowshikmeda/Daily_DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -382,6 +383,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/kowshikmeda/Daily_DSA/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -426,6 +428,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2050-count-good-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -541,6 +544,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Quickselect
 |  |
 | ------- |
