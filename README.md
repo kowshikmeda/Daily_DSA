@@ -78,6 +78,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -125,6 +126,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kowshikmeda/Daily_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kowshikmeda/Daily_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kowshikmeda/Daily_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -402,6 +405,7 @@
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/kowshikmeda/Daily_DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -485,6 +489,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
@@ -500,6 +505,7 @@
 | [0460-lfu-cache](https://github.com/kowshikmeda/Daily_DSA/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kowshikmeda/Daily_DSA/tree/master/0937-online-stock-span) |
+| [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
