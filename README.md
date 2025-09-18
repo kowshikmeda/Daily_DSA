@@ -127,6 +127,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/kowshikmeda/Daily_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kowshikmeda/Daily_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -406,6 +407,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/kowshikmeda/Daily_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -490,6 +492,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
@@ -506,6 +509,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kowshikmeda/Daily_DSA/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
