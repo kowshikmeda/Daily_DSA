@@ -90,6 +90,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kowshikmeda/Daily_DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kowshikmeda/Daily_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -178,6 +180,7 @@
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kowshikmeda/Daily_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -215,6 +218,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kowshikmeda/Daily_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -510,6 +514,7 @@
 | [0937-online-stock-span](https://github.com/kowshikmeda/Daily_DSA/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
