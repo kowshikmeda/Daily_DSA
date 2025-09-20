@@ -91,6 +91,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kowshikmeda/Daily_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -155,6 +157,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kowshikmeda/Daily_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
@@ -515,6 +519,7 @@
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -522,6 +527,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kowshikmeda/Daily_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kowshikmeda/Daily_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
