@@ -72,6 +72,7 @@
 | [1646-kth-missing-positive-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1646-kth-missing-positive-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kowshikmeda/Daily_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/kowshikmeda/Daily_DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/kowshikmeda/Daily_DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -128,6 +129,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kowshikmeda/Daily_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2023-design-movie-rental-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
@@ -413,6 +415,7 @@
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/kowshikmeda/Daily_DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 ## Merge Sort
@@ -498,6 +501,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -516,6 +520,7 @@
 | [0460-lfu-cache](https://github.com/kowshikmeda/Daily_DSA/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kowshikmeda/Daily_DSA/tree/master/0937-online-stock-span) |
+| [2023-design-movie-rental-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
