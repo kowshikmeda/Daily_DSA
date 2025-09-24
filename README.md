@@ -110,6 +110,7 @@
 | [0141-linked-list-cycle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kowshikmeda/Daily_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/kowshikmeda/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/kowshikmeda/Daily_DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -175,6 +176,7 @@
 | [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0282-expression-add-operators](https://github.com/kowshikmeda/Daily_DSA/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
@@ -435,6 +437,7 @@
 | [0029-divide-two-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kowshikmeda/Daily_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kowshikmeda/Daily_DSA/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/kowshikmeda/Daily_DSA/tree/master/0282-expression-add-operators) |
