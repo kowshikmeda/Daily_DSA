@@ -52,6 +52,7 @@
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/kowshikmeda/Daily_DSA/tree/master/0735-asteroid-collision) |
+| [0830-largest-triangle-area](https://github.com/kowshikmeda/Daily_DSA/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/kowshikmeda/Daily_DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/kowshikmeda/Daily_DSA/tree/master/0907-koko-eating-bananas) |
@@ -451,6 +452,7 @@
 | [0342-power-of-four](https://github.com/kowshikmeda/Daily_DSA/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/kowshikmeda/Daily_DSA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -734,6 +736,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/kowshikmeda/Daily_DSA/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
