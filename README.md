@@ -60,6 +60,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/kowshikmeda/Daily_DSA/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -319,6 +320,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/kowshikmeda/Daily_DSA/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kowshikmeda/Daily_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/kowshikmeda/Daily_DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -455,6 +457,7 @@
 | [0830-largest-triangle-area](https://github.com/kowshikmeda/Daily_DSA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kowshikmeda/Daily_DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -482,6 +485,7 @@
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
