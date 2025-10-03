@@ -41,6 +41,7 @@
 | [0239-sliding-window-maximum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kowshikmeda/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kowshikmeda/Daily_DSA/tree/master/0455-assign-cookies) |
@@ -229,6 +230,7 @@
 | [0079-word-search](https://github.com/kowshikmeda/Daily_DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/kowshikmeda/Daily_DSA/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -431,6 +433,7 @@
 | [0295-find-median-from-data-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kowshikmeda/Daily_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/kowshikmeda/Daily_DSA/tree/master/0355-design-twitter) |
+| [0407-trapping-rain-water-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kowshikmeda/Daily_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/kowshikmeda/Daily_DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -738,6 +741,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kowshikmeda/Daily_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kowshikmeda/Daily_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
