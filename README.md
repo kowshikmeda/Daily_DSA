@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kowshikmeda/Daily_DSA/tree/master/0036-valid-sudoku) |
@@ -314,6 +315,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kowshikmeda/Daily_DSA/tree/master/0402-remove-k-digits) |
@@ -364,6 +366,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kowshikmeda/Daily_DSA/tree/master/0061-rotate-list) |
