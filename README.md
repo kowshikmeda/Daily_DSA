@@ -32,6 +32,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kowshikmeda/Daily_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -311,6 +312,7 @@
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kowshikmeda/Daily_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kowshikmeda/Daily_DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kowshikmeda/Daily_DSA/tree/master/0139-word-break) |
