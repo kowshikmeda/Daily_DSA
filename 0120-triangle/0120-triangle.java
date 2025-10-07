@@ -1,15 +1,26 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int n = triangle.size();
-        int[] res = new int[n];
-        for(int i=0; i<n;i++){
-            res[i] = triangle.get(n-1).get(i);
+
+        int[][] DP = new int[n][n];
+
+        // Base case: DP last row = triangle last row
+        for(int i=0; i<n; i++){
+            DP[n-1][i] = triangle.get(n-1).get(i);
         }
-        for(int r = n-2; r >= 0; r--){
-            for(int c = 0; c <= r; c++){
-                res[c] = triangle.get(r).get(c) + Math.min(res[c], res[c+1]);
+
+        // Top down approach in Tabulation
+        for(int i=n-2; i>=0; i--){
+            for(int j=0; j<=i; j++){
+                int currElement = triangle.get(i).get(j);
+
+                int moveDown = currElement + DP[i+1][j];
+                int moveDiagonal = currElement + DP[i+1][j+1];
+
+                DP[i][j] = Math.min(moveDown, moveDiagonal);
             }
         }
-        return res[0];
+
+        return DP[0][0];
     }
 }
