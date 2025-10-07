@@ -2,39 +2,42 @@ class Solution {
     public int minPathSum(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
+        int dp[][] = new int[n][m];
         
-        // dp stores the results for the previous row
-        int[] dp = new int[m];
-        
+        // No need to initialize with -1 or any other value for tabulation, 
+        // as the loops will fill all cells starting from (0, 0).
+
         for (int i = 0; i < n; i++) {
-            int[] current = new int[m]; // Stores results for the current row
             for (int j = 0; j < m; j++) {
                 
-                // Base Case (0, 0)
+                // Base Case: Top-left cell (0, 0)
                 if (i == 0 && j == 0) {
-                    current[j] = grid[i][j];
-                    continue;
+                    dp[i][j] = grid[i][j];
+                    continue; // Move to the next iteration
                 }
 
+                // Initialize path sums to a very large value to represent infinity/impossibility
                 int up = Integer.MAX_VALUE;
                 int left = Integer.MAX_VALUE;
 
-                // Path from above (using dp array which holds the previous row's results)
+                // Path from above (Only possible if i > 0)
                 if (i > 0) {
-                    up = grid[i][j] + dp[j];
+                    // The path sum from above is the sum of the current cell's value
+                    // and the minimum path sum to the cell above it.
+                    up = grid[i][j] + dp[i - 1][j];
                 }
-                
-                // Path from left (using current array which holds the current row's results so far)
+
+                // Path from left (Only possible if j > 0)
                 if (j > 0) {
-                    left = grid[i][j] + current[j - 1];
+                    // The path sum from the left is the sum of the current cell's value
+                    // and the minimum path sum to the cell left of it.
+                    left = grid[i][j] + dp[i][j - 1];
                 }
                 
-                current[j] = Math.min(up, left);
+                // The minimum path sum to (i, j) is the minimum of the two possible paths
+                dp[i][j] = Math.min(up, left);
             }
-            dp = current; // Update dp to be the current row for the next iteration
-        }
-        
-        // The final answer is the last element of the last calculated row
-        return dp[m - 1];
+        } 
+        return dp[n - 1][m - 1];
     }
 }
