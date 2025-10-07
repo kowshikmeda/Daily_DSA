@@ -298,6 +298,7 @@
 | [0042-trapping-rain-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kowshikmeda/Daily_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kowshikmeda/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/0118-pascals-triangle) |
@@ -465,6 +466,7 @@
 | [0002-add-two-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kowshikmeda/Daily_DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kowshikmeda/Daily_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kowshikmeda/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
@@ -781,6 +783,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kowshikmeda/Daily_DSA/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Union Find
 |  |
