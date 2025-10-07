@@ -61,6 +61,7 @@
 | [0611-valid-triangle-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kowshikmeda/Daily_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/kowshikmeda/Daily_DSA/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/kowshikmeda/Daily_DSA/tree/master/0830-largest-triangle-area) |
@@ -329,6 +330,7 @@
 | [0410-split-array-largest-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kowshikmeda/Daily_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kowshikmeda/Daily_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -354,6 +356,7 @@
 | [0611-valid-triangle-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kowshikmeda/Daily_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/kowshikmeda/Daily_DSA/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/kowshikmeda/Daily_DSA/tree/master/1018-largest-perimeter-triangle) |
