@@ -117,6 +117,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kowshikmeda/Daily_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kowshikmeda/Daily_DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -394,6 +395,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/kowshikmeda/Daily_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/kowshikmeda/Daily_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -578,6 +580,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kowshikmeda/Daily_DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
