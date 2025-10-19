@@ -229,6 +229,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kowshikmeda/Daily_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kowshikmeda/Daily_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikmeda/Daily_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kowshikmeda/Daily_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
@@ -323,6 +324,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/kowshikmeda/Daily_DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -808,6 +810,7 @@
 | [0794-swim-in-rising-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Trie
 |  |
 | ------- |
@@ -834,6 +837,7 @@
 | [0794-swim-in-rising-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Iterator
 |  |
 | ------- |
