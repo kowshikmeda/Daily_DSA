@@ -139,6 +139,7 @@
 | [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kowshikmeda/Daily_DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kowshikmeda/Daily_DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kowshikmeda/Daily_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -559,6 +561,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/kowshikmeda/Daily_DSA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -685,6 +688,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/kowshikmeda/Daily_DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
 | ------- |
@@ -873,6 +877,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -900,6 +905,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 ## Iterator
 |  |
 | ------- |
@@ -925,10 +931,15 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kowshikmeda/Daily_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kowshikmeda/Daily_DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
