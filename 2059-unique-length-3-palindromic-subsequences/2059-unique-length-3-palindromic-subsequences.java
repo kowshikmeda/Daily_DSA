@@ -1,23 +1,41 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        int[] rt = new int[26];
-        for (char u : s.toCharArray()) {
-            rt[u - 'a']++;
-        }
-        int[] lt = new int[26];
-        HashSet<Integer> set = new HashSet<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            int t = s.charAt(i) - 'a';
-            rt[t]--;
-            for (int j = 0; j < 26; j++) {
-                if (lt[j] > 0 && rt[j] > 0) {
-                    set.add(26 * t + j);
-                }
+        int n = s.length();
+
+        int[] first = new int[26];
+        int[] last = new int[26];
+
+        // initialization with -1;
+        for(int i=0;i<26;i++){
+            first[i] = last[i] = -1;
+        }
+
+        // counting 1st and last occurance of each character
+
+        for(int i=0;i<n;i++ ){
+
+            int index = s.charAt(i) -'a';
+            
+            if( first[index] == -1){
+                first[index] = i;
             }
-            lt[t]++;
+            last[index] =i;
         }
 
-        return set.size(); 
+        // counting distinct elements between 1st and last index of characters
+
+        int ans =0;
+
+        for(int i =0;i<26;i++){
+
+            HashSet<Character>hs = new HashSet<>();
+
+            for(int j = first[i]+1; j< last[i];j++){
+                hs.add(s.charAt(j));
+            }
+            ans += hs.size();
+        }
+        return ans;
     }
 }
