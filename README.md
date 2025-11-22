@@ -122,6 +122,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/kowshikmeda/Daily_DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kowshikmeda/Daily_DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kowshikmeda/Daily_DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -636,6 +637,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kowshikmeda/Daily_DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
