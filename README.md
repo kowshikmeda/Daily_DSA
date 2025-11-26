@@ -118,6 +118,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kowshikmeda/Daily_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/kowshikmeda/Daily_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kowshikmeda/Daily_DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikmeda/Daily_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kowshikmeda/Daily_DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -332,6 +333,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kowshikmeda/Daily_DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kowshikmeda/Daily_DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kowshikmeda/Daily_DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/kowshikmeda/Daily_DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -435,6 +437,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kowshikmeda/Daily_DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kowshikmeda/Daily_DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kowshikmeda/Daily_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kowshikmeda/Daily_DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kowshikmeda/Daily_DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
