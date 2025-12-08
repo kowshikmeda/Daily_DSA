@@ -400,6 +400,7 @@
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/kowshikmeda/Daily_DSA/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/kowshikmeda/Daily_DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -660,6 +661,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/kowshikmeda/Daily_DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/kowshikmeda/Daily_DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kowshikmeda/Daily_DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/kowshikmeda/Daily_DSA/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kowshikmeda/Daily_DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
