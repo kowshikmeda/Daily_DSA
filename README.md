@@ -1079,5 +1079,6 @@
 ## Database
 |  |
 | ------- |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/kowshikmeda/Daily_DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1789-primary-department-for-each-employee](https://github.com/kowshikmeda/Daily_DSA/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
