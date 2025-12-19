@@ -731,6 +731,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kowshikmeda/Daily_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/kowshikmeda/Daily_DSA/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kowshikmeda/Daily_DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kowshikmeda/Daily_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1000,6 +1001,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/kowshikmeda/Daily_DSA/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kowshikmeda/Daily_DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kowshikmeda/Daily_DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
@@ -1031,6 +1033,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kowshikmeda/Daily_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/kowshikmeda/Daily_DSA/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 ## Iterator
 |  |
@@ -1060,6 +1063,7 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/kowshikmeda/Daily_DSA/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
@@ -1070,5 +1074,6 @@
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/kowshikmeda/Daily_DSA/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
