@@ -1076,4 +1076,8 @@
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/kowshikmeda/Daily_DSA/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/kowshikmeda/Daily_DSA/tree/master/3863-power-grid-maintenance) |
+## Database
+|  |
+| ------- |
+| [1789-primary-department-for-each-employee](https://github.com/kowshikmeda/Daily_DSA/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
