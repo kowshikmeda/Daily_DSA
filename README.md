@@ -76,6 +76,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kowshikmeda/Daily_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/kowshikmeda/Daily_DSA/tree/master/1006-vowel-spellchecker) |
@@ -296,6 +297,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kowshikmeda/Daily_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/kowshikmeda/Daily_DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kowshikmeda/Daily_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kowshikmeda/Daily_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -460,6 +462,7 @@
 | [0826-soup-servings](https://github.com/kowshikmeda/Daily_DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/kowshikmeda/Daily_DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kowshikmeda/Daily_DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
