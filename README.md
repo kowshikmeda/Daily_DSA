@@ -88,6 +88,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kowshikmeda/Daily_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kowshikmeda/Daily_DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kowshikmeda/Daily_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kowshikmeda/Daily_DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -263,6 +264,7 @@
 | [0907-koko-eating-bananas](https://github.com/kowshikmeda/Daily_DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kowshikmeda/Daily_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kowshikmeda/Daily_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kowshikmeda/Daily_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/kowshikmeda/Daily_DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -370,6 +372,7 @@
 | [0498-diagonal-traverse](https://github.com/kowshikmeda/Daily_DSA/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/kowshikmeda/Daily_DSA/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/2047-find-a-peak-element-ii) |
