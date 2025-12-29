@@ -202,6 +202,7 @@
 | [0496-next-greater-element-i](https://github.com/kowshikmeda/Daily_DSA/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kowshikmeda/Daily_DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kowshikmeda/Daily_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0756-pyramid-transition-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0876-hand-of-straights](https://github.com/kowshikmeda/Daily_DSA/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kowshikmeda/Daily_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/kowshikmeda/Daily_DSA/tree/master/0900-reordered-power-of-2) |
@@ -303,6 +304,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kowshikmeda/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/kowshikmeda/Daily_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0756-pyramid-transition-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kowshikmeda/Daily_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -400,6 +402,7 @@
 | [0216-combination-sum-iii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/kowshikmeda/Daily_DSA/tree/master/0282-expression-add-operators) |
 | [0679-24-game](https://github.com/kowshikmeda/Daily_DSA/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/0756-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kowshikmeda/Daily_DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
@@ -412,6 +415,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kowshikmeda/Daily_DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kowshikmeda/Daily_DSA/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kowshikmeda/Daily_DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kowshikmeda/Daily_DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kowshikmeda/Daily_DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
