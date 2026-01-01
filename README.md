@@ -21,6 +21,7 @@
 | [0057-insert-interval](https://github.com/kowshikmeda/Daily_DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/kowshikmeda/Daily_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kowshikmeda/Daily_DSA/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/kowshikmeda/Daily_DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kowshikmeda/Daily_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kowshikmeda/Daily_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kowshikmeda/Daily_DSA/tree/master/0079-word-search) |
@@ -694,6 +695,7 @@
 | [0029-divide-two-integers](https://github.com/kowshikmeda/Daily_DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kowshikmeda/Daily_DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kowshikmeda/Daily_DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/kowshikmeda/Daily_DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kowshikmeda/Daily_DSA/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kowshikmeda/Daily_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/kowshikmeda/Daily_DSA/tree/master/0204-count-primes) |
