@@ -98,6 +98,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kowshikmeda/Daily_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kowshikmeda/Daily_DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/kowshikmeda/Daily_DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kowshikmeda/Daily_DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kowshikmeda/Daily_DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kowshikmeda/Daily_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -494,6 +495,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/kowshikmeda/Daily_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kowshikmeda/Daily_DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/kowshikmeda/Daily_DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kowshikmeda/Daily_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kowshikmeda/Daily_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kowshikmeda/Daily_DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
